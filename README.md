@@ -1,4 +1,4 @@
-A simple portfolio page.
+A simple portfolio page created with REACT.
 
 Languages used: JavaScript, CSS, HTML
 
